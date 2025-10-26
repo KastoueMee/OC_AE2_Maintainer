@@ -9,7 +9,7 @@ Basic knowledge of the mod is assumed
 
 download by using: (press INSERT on your keyboard to paste it into the OC terminal)
 ```
-wget https://github.com/KastoueMee/OC_AE2_Maintainer/main/config.lua && wget https://github.com/KastoueMee/OC_AE2_Maintainer/main/level_maintainer.lua && wget https://github.com/KastoueMee/OC_AE2_Maintainer/main/craftables.lua && wget https://github.com/KastoueMee/OC_AE2_Maintainer/main/ae2_helpers.lua
+wget https://raw.githubusercontent.com/KastoueMee/OC_AE2_Maintainer/refs/heads/main/ae2_helpers.lua && wget https://raw.githubusercontent.com/KastoueMee/OC_AE2_Maintainer/refs/heads/main/config.lua && wget https://raw.githubusercontent.com/KastoueMee/OC_AE2_Maintainer/refs/heads/main/craftables.lua && wget https://raw.githubusercontent.com/KastoueMee/OC_AE2_Maintainer/refs/heads/main/level_maintainer.lua
 ```
 
 HOW TO USE:
